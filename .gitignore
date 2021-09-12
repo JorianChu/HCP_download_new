@@ -1,6 +1,3 @@
-data/fail/*
-data/HPC/*
-data/.xdlm/*
-data/md5/*
+data/*
 .idea/
 log/*
