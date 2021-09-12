@@ -4,13 +4,13 @@
 @author: jorian
 @time: 2021/9/11  9:29
 """
-from utils.conf import *
+from conf import *
 import boto3
 import os
 from pathlib import Path
 from loguru import logger
 import time
-from utils.util import merge_subject_json
+from util import merge_subject_json
 
 project_path = Path.cwd().parent
 log_path = Path(project_path, "log")
