@@ -17,8 +17,8 @@ SERIES_MAP = {
 '.xdlm':'.xdlm',
 }
 
-access_key = 'AKIAXO65CT57OKFD22NZ'
-secret_key = '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'
+access_key = ''
+secret_key = ''
 s3_bucket_name = 'hcp-openaccess'
 s3_prefix = 'HCP_1200'
 

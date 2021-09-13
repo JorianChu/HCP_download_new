@@ -7,8 +7,8 @@
 import boto3
 import json
 
-# access_key = 'AKIAXO65CT57OKFD22NZ'
-# secret_key = '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'
+# access_key = ''
+# secret_key = ''
 # subject = '911849'
 #
 # resource = boto3.resource('s3',aws_access_key_id=access_key,aws_secret_access_key=secret_key)
